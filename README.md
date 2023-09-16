@@ -20,10 +20,11 @@ To get a local copy up and running follow these simple example steps.
 ### To have this repo in your local machine follow the commands below:
 - on your terminal or cmd
 - move into desktop by `cd Desktop` and copy the following commands
-- ` git clone https://github.com/mandelatuks/javaClass/edit/main/README.md`
+- ` git clone git@github.com:mandelatuks/javaClass.git`
 -  ` cd javaClass `
 ### After cloning the repo   PLEASE CREATE A FOLDER WITH YOUR NAME ** EG MANDELA**
 -  and write your code in that folder
+-  create a branch and push to that branch **check the links below on how to get started with git and and GitHub to do this step**
  
 
 ### Important Link
